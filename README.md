@@ -1,6 +1,9 @@
 # Course Recommendation System
 
 A Machine Learning-based Course Recommendation System built using Python and Streamlit. It recommends relevant subjects based on the student's branch, college, course, and academic year.
+## Live Demo
+
+[Open Course Recommendation System](https://course-recommendation-system-ansh.streamlit.app/)
 
 ## Project Overview
 
