@@ -38,3 +38,7 @@ course-recommendation-system/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
+## Project Screenshot
+
+![Course Recommendation System](screenshot.png)
